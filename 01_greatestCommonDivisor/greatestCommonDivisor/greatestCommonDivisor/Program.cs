@@ -18,7 +18,7 @@ namespace greatestCommonDivisor
 
         static void Main(string[] args)
         {
-            Console.WriteLine(Gcd(99,17));
+            Console.WriteLine(Gcd(98,17));
             Console.ReadLine();
         }
     }
